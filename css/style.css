@@ -4,6 +4,7 @@
     margin: 0;
     text-decoration: none;
     list-style: none;
+    text-decoration: none;
     box-sizing: border-box;
   }
   html{
@@ -25,7 +26,7 @@
   }
   body .home h1{
     position: absolute;
-    color: blanchedalmond;
+    color: white;
     font-size: 4em;
     width: 400px;
     letter-spacing: 0.01em;
@@ -45,14 +46,14 @@
     max-width: 60%;
     background:#2e3336ef;
     padding: 30px;
-    color: blanchedalmond;
+    color: white;
     border-radius: 30px;
   }
   body .info a{
     color: #1bb1ec;
   }
   body .info .learn{
-    color: blanchedalmond;
+    color: white;
     background: #1695c7;
     padding: 20px 40px;
     border-radius: 10vh;
